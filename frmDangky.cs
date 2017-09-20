@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Hoc de kiem tien
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
