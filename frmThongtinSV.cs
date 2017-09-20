@@ -11,6 +11,7 @@ namespace QLTruonghoc
 {
     public partial class frmThongtinSV : Form
     {
+    //khởi tạo frame thong tin sinh vien
         public frmThongtinSV()
         {
             InitializeComponent();
