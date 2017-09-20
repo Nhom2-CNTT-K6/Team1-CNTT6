@@ -47,6 +47,7 @@ namespace QLTruonghoc
             com2.CommandText = "Select c.coursetitle as cName, r.studentid as stID from course c, register r where r.courseid = c.courseid";
             OleDbDataReader cRead = com2.ExecuteReader();
             OleDbDataReader stdRead = com.ExecuteReader();
+            //đọc dữ liệu từ cơ sở dữ liệu ghi vào gridview
             while (stdRead.Read())
             {
                 dataGridView1.Rows.Add();
