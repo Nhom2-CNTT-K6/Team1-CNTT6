@@ -68,6 +68,7 @@ namespace QLTruonghoc
                 }
             }
         }
+        //thay đổi tên sinh viên
 
         private void txtTen_TextChanged(object sender, EventArgs e)
         {
