@@ -76,7 +76,6 @@ namespace QLTruonghoc
                 ckbTimkiem.Checked = false;
                 ckbXoa.Checked = false;
             }
-                //sdjdjdjsnsdsd
             else
             {
 
