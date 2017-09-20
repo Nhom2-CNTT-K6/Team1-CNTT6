@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Data.OleDb;
-
+//test.....ZzBTTMzZ
 namespace QLTruonghoc
 {
     public partial class frmKhoahoc : Form
