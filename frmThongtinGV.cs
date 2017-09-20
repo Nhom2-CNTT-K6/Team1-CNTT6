@@ -92,6 +92,7 @@ namespace QLTruonghoc
                 cmbMSKtim.Enabled = false;
             }
         }
+        // huy leu leu lai thay doi
 
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
