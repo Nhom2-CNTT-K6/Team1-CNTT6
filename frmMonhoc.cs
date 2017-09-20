@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ﻿// sửa rồi nhé a e
 using System;
+=======
+﻿using System;
+//congratulation group 2
+>>>>>>> 6beab92e44351633eaf6a801eb992c6ce547298f
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,6 +15,7 @@ using System.Windows.Forms;
 using System.Data.OleDb;
 
 namespace QLTruonghoc
+    //Quan ly sinh vien nhom 2 nhe cac men, keke
 {
     public partial class frmMonhoc : Form
     {
