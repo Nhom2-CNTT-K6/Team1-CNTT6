@@ -19,6 +19,7 @@
             }
             base.Dispose(disposing);
         }
+        // sua moi
 
         #region Windows Form Designer generated code
 
