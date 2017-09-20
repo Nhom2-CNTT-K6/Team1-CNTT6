@@ -28,6 +28,7 @@ namespace QLTruonghoc
                 txtTen.Enabled = false;
             }
         }
+        //khai báo kết nối CSDL
         public OleDbConnection con = new OleDbConnection();
         private void frmDangky_Load(object sender, EventArgs e)
         {
