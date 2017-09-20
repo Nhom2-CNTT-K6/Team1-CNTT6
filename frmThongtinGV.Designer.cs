@@ -1,4 +1,5 @@
-﻿namespace QLTruonghoc
+﻿// Hello ủa
+namespace QLTruonghoc
 {
     partial class frmThongtinGV
     {

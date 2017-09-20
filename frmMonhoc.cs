@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-﻿// sửa rồi nhé a e
+// sua lai noi dung nha﻿
+// sửa rồi nhé a e
 using System;
 =======
 ﻿using System;
