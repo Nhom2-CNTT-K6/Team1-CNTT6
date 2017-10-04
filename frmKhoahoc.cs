@@ -1,5 +1,5 @@
 ﻿//dung bo sung them
-// Cái này Huy đã sửa
+/// TA sua cai nay(lol)
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
