@@ -1,5 +1,11 @@
+<<<<<<< HEAD
+// sua lai noi dung nha﻿
+// sửa rồi nhé a e
+using System;
+=======
 ﻿using System;
 //congratulation group 2
+>>>>>>> 6beab92e44351633eaf6a801eb992c6ce547298f
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

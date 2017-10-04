@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Đã sửa thông tin
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,6 +12,7 @@ namespace QLTruonghoc
 {
     public partial class frmThongtinSV : Form
     {
+    //khởi tạo frame thong tin sinh vien
         public frmThongtinSV()
         {
             InitializeComponent();

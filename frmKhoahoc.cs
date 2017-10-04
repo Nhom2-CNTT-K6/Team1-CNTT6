@@ -1,4 +1,6 @@
-﻿using System;
+﻿//dung bo sung them
+// Cái này Huy đã sửa
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Data.OleDb;
-
+//test.....ZzBTTMzZ
 namespace QLTruonghoc
 {
     public partial class frmKhoahoc : Form

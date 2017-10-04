@@ -1,4 +1,5 @@
-﻿namespace QLTruonghoc
+﻿// Đây là lần chỉnh sửa thứ nhất
+namespace QLTruonghoc
 {
     partial class frmDangnhap
     {

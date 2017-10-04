@@ -1,4 +1,5 @@
-﻿namespace QLTruonghoc
+﻿// Chưa ai sửa thì mình sửa thôi
+namespace QLTruonghoc
 {
     partial class frmThongtinSV
     {

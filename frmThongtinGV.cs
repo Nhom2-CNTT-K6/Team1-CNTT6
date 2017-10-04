@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Đã sửa rồi
+// Sửa lại lần 1 
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -91,6 +93,7 @@ namespace QLTruonghoc
                 cmbMSKtim.Enabled = false;
             }
         }
+        // huy leu leu lai thay doi
 
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
